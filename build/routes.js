@@ -48115,7 +48115,8 @@ export default {
       "/home/:sort?/:id?": {
         "path": "/home/:sort?/:id?",
         "categories": [
-          "programming"
+          "programming",
+          "popular"
         ],
         "example": "/hellogithub/home",
         "parameters": {
